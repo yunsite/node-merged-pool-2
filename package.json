@@ -34,7 +34,7 @@
         "url": "https://github.com/hzeyoo/node-merged-pool.git"
     },
     "dependencies": {
-        "unomp-multi-hashing": "https://github.com/hzeyoo/node-multi-hashing-xzc.git",
+        "unomp-multi-hashing": "git://github.com/hzeyoo/node-multi-hashing-xzc.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
